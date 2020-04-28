@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "102477048022",
+    "firebase_url": "https://coolnotes-40aa3.firebaseio.com",
+    "project_id": "coolnotes-40aa3",
+    "storage_bucket": "coolnotes-40aa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102477048022:android:e56a1078ec090adb99c177",
+        "android_client_info": {
+          "package_name": "com.example.coolnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102477048022-rlt1etpcn9n8jk38hkjrn8gv8rab8n2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUfj7xtfotg5052E4QqyK3vQTypUE76r4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102477048022-rlt1etpcn9n8jk38hkjrn8gv8rab8n2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
